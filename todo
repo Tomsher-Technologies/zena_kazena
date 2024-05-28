@@ -1,0 +1,19 @@
+change status of cart when purchase completed
+Order
+    show offer price
+    download, print invoice
+    <!-- show product sku -->
+Customer 
+    <!-- // remove wallet, Package -->
+    <!-- // Show all customer, with phone verification status -->
+    <!-- // Address default not setting in admin -->
+<!-- brand add image upload option -->
+category 
+    <!-- image -->
+    <!-- // Ordering Number editable -->
+
+Coupon 
+    Reports
+    <!-- one time use option -->
+<!-- Product add sku -->
+SHOP

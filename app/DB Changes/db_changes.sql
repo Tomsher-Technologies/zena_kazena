@@ -1,0 +1,3 @@
+ALTER TABLE `users` ADD `otp` VARCHAR(50) NULL DEFAULT NULL AFTER `email`, ADD `otp_expiry` TIMESTAMP NULL DEFAULT NULL AFTER `otp`;
+
+ALTER TABLE `users` ADD `is_phone_verified` TINYINT(1) NOT NULL DEFAULT '0' AFTER `otp_expiry`;
